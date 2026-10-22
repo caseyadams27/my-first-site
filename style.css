@@ -1,0 +1,96 @@
+body {
+  background-color: #b8bcbd;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+h1 { font-size: 50px;
+  background-color: #9e9797;
+  height: 75px;
+  width: 400px;
+  padding: 30px;
+  margin: 50px;
+  border: 20px solid #c5bf57;
+  color: #f7ed28;
+}
+p {
+  font-size: 15px;
+  background-color: #9e9797;
+  height: 80px;
+  width: 400px;
+  padding: 30px;
+  margin: 50px;
+  border: 20px solid #c5bf57;
+  color: #f7ed28;
+}
+
+
+h2 { font-size: 25px;
+  background-color: #9e9797;
+  height: 40px;
+  width: 400px;
+  padding: 30px;
+  margin: 50px;
+  border: 20px solid #c5bf57;
+  color: #f7ed28;
+}
+
+p {font-size: 15px;
+  background-color: #9e9797;
+  height: 80px;
+  width: 400px;
+  padding: 30px;
+  margin: 50px;
+  border: 20px solid #c5bf57;
+  color: #f7ed28;
+}
+
+h3 { font-size: 25px;
+  background-color: #9e9797;
+  height: 40px;
+  width: 400px;
+  padding: 30px;
+  margin: 60px;
+  border: 20px solid #c5bf57;
+  color: #f7ed28;
+}
+
+p {
+  font-size: 15px;
+  background-color: #9e9797;
+  height: 80px;
+  width: 400px;
+  padding: 30px;
+  margin: 50px;
+  border: 20px solid #c5bf57;
+  color: #f7ed28;
+}
+
+nav {
+  font-size: 20px;
+  background-color: #9e9797;
+  height: 100px;
+  width: 400px;
+  padding: 30px;
+  margin: 108px;
+  border: 20px solid #c5bf57;
+  color: #010100;
+}
+
+.card {
+  border: 2px solid #c5bf57;
+  padding: 24px;
+}
+.note {
+  color: #050405;
+}
+#hero {
+  background-color: #95a3b3;
+}
+
+.classname {
+  color: #f7ed28;
+  font-size: 20px;
+}
+#id {
+  color: #f7ed28;
+  font-size: 20px;
+}
